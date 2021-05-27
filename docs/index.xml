@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Hugo Website!!</title>
+    <link>https://k3v53.github.io/my-First-Hugo-Website-quickstart/</link>
+    <description>Recent content on My First Hugo Website!!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://k3v53.github.io/my-First-Hugo-Website-quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://k3v53.github.io/my-First-Hugo-Website-quickstart/</link>
+      <pubDate>Thu, 27 May 2021 08:30:41 -0300</pubDate>
+      
+      <guid>https://k3v53.github.io/my-First-Hugo-Website-quickstart/</guid>
+      <description>Hello, World! </description>
+    </item>
+    
+  </channel>
+</rss>
